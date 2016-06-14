@@ -20,7 +20,7 @@
 			}
 		}
 	
-		$email_to  =  'some@email.com'; 
+		$email_to  =  'o.i.naumov@yandex.ru';
 		
 		$headers = "From: ".$_POST["inputemail"]."\r\n";	
 		$headers .= "Reply-To: ".$_POST["inputemail"]."\r\n";	

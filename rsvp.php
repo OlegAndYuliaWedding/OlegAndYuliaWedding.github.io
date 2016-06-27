@@ -20,7 +20,7 @@
 			}
 		}
 	
-		$email_to  =  'o.i.naumov@yandex.ru';
+		$email_to  =  'family@oleg-and-yulia-wedding.com';
 		
 		$headers = "From: ".$_POST["inputemail"]."\r\n";	
 		$headers .= "Reply-To: ".$_POST["inputemail"]."\r\n";	

@@ -137,7 +137,7 @@
 			//DISABLE SUBMIT BUTTON
 			var submit_value = $('input[type="submit"]#submitButton').val();
 			$('input[type="submit"]#submitButton').prop('disabled', true);
-			$('input[type="submit"]#submitButton').val('SENDING ...');
+			$('input[type="submit"]#submitButton').val('ОТПРАВКА ...');
 			
 			//START POST ACTION
             $.post(action_url, post_data, function(response){  

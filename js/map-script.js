@@ -59,7 +59,7 @@
        		raiseOnDrag: false,
        		icon: ' ',
        		map: map, 
-         	labelContent: '<div class="de-icon circle medium-size" style="background-color:#FFF; border:1px solid #f0394d"><i class="de-icon-heart" style="color:#f0394d"></i></div>',
+         	labelContent: '<div class="de-icon circle medium-size" style="background-color:#f0394d; border:1px solid #FFF"><i class="de-icon-heart" style="color:#FFF"></i></div>',
        		labelAnchor: new google.maps.Point(0, 0),
        		labelClass: "labels" // the CSS class for the label
      		});
@@ -81,7 +81,7 @@
        		raiseOnDrag: false,
        		icon: ' ',
        		map: map,
-         	labelContent: '<div class="de-icon circle small-size" style="background-color:#67a80e"><i class="de-icon-food"></i></div>',
+         	labelContent: '<div class="de-icon circle small-size" style="background-color:#f6700e"><i class="de-icon-food"></i></div>',
        		labelAnchor: new google.maps.Point(0, 0),
        		labelClass: "labels" // the CSS class for the label
      		});

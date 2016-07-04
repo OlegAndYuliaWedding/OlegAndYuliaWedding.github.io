@@ -137,7 +137,7 @@
 			@property [isRTL=false] {boolean} True for right-to-left languages, false for left-to-right. */
 		regionalOptions: { // Available regional settings, indexed by language/country code
 			'': { // Default regional settings - English/US
-		labels: ['Years', 'Months', 'Weeks', 'Days', 'Hours', 'Minutes', 'Seconds'],
+		labels: ['Лет', 'Месяцев', 'Недель', 'Дней', 'Часов', 'Минут', 'Секунд'],
 		labels1: ['Year', 'Month', 'Week', 'Day', 'Hour', 'Minute', 'Second'],
 				compactLabels: ['y', 'm', 'w', 'd'],
 				whichLabels: null,
